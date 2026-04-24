@@ -1,4 +1,4 @@
-# IPH Mandume - TODO List
+# IPH GO - TODO List
 
 ## Backend - Database Schema
 - [x] Criar tabela `disciplines` com dados das 4 disciplinas
